@@ -1,3 +1,5 @@
 # Hi there, I am Raman
 
-# I am passionate about AI
+
+# About Me
+I am passionate about automation and AI
