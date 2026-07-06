@@ -2,4 +2,4 @@
 
 
 # About Me
-I am passionate about automation and AI
+I am **passionate** about **automation** and **AI**
